@@ -1,0 +1,39 @@
+# Arquivos de sistema
+.DS_Store
+.DS_Store?
+*.swp
+*.swo
+*~
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ambientes Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+
+# Arquivos de Backup
+*.backup
+*.bak
+*.tmp
+
+# Certificados/PDFs (opcional)
+# Descomente se quiser ignorar certificados em PDF
+# *.pdf
+
+# Node modules (se usar JavaScript)
+node_modules/
+npm-debug.log
+
+# Arquivos pessoais
+private/
+secrets/
