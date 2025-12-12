@@ -1,0 +1,35 @@
+{
+  "certificacoes": [
+    {
+      "id": 1,
+      "nome": "Formação GitHub Certification",
+      "plataforma": "DIO",
+      "status": "concluido",
+      "data": "2025-12",
+      "cargaHoraria": 10,
+      "nivel": "basico",
+      "link": "https://web.dio.me/track/formacao-github-certification",
+      "temasCobertos": [
+        "Git e GitHub Fundamentals",
+        "Controle de Versão",
+        "Colaboração em Projetos",
+        "Pull Requests e Code Review",
+        "GitHub Actions"
+      ]
+    }
+  ],
+  "estatisticas": {
+    "total": 1,
+    "concluidas": 1,
+    "emAndamento": 0,
+    "naoIniciadas": 0,
+    "totalHoras": 10,
+    "ultimaAtualizacao": "2025-12-12"
+  },
+  "plataformas": [
+    "DIO",
+    "Google Cloud",
+    "AWS",
+    "Microsoft Learn"
+  ]
+}
